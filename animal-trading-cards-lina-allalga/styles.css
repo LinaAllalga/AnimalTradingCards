@@ -1,0 +1,31 @@
+body {
+    border: 2px solid lightgrey;
+    width: 310px;
+    padding: 10px;
+}
+
+.img {
+    width: 300px;
+    padding: 10px;
+}
+.container {
+    border: 2px solid lightgrey;
+    width: 276px;
+    padding: 10px;
+    
+}
+.fact {
+    font-style: italic;
+}
+
+ul {
+    padding-left: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+li span {
+    font-weight: bold;
+}
